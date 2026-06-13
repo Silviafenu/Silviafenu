@@ -40,4 +40,3 @@
 </div>
 
 ###
-![tryhackme stats](https://raw.githubusercontent.com/fenu471/fenu471/master/assets/thm_propic.png)
