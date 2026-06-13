@@ -7,6 +7,14 @@
 ###
 
 ###
+<h2>🌳 Connect with me:</h2>
+<p style="display: inline-block;" align="left">
+  
+  <a href="https://www.linkedin.com/in/silvia-fenu/">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+
+###
 
 <h2 align="left">I code with</h2>
 
@@ -40,9 +48,3 @@
 </div>
 
 ###
-<h2>🌳 Connect with me:</h2>
-<p style="display: inline-block;" align="left">
-  
-  <a href="https://www.linkedin.com/in/silvia-fenu/">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
